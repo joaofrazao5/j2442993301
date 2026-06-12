@@ -1,14 +1,13 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+joão+carlos+frazão!;" />
 </h1>
-<h3>Desenvolvedor Java-End </h3>
-
+<h3>Desenvolvedor  </h3>
 
 
 <div align="center">
-  <a href="https://github.com/denisilvace"> 
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=denisilvace&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=denisilvace&layout=compact&langs_count=16&theme=dark" />
+  <a href="https://github.com/j2442993301"> 
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=j2442993301&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=j2442993301&layout=compact&langs_count=16&theme=dark" />
   </a>
 </div>
 
