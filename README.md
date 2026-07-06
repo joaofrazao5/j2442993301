@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/j2442993301"> 
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=j2442993301&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=j2442993301&layout=compact&langs_count=16&theme=dark" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaofrazao5&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaofrazao5&layout=compact&langs_count=16&theme=dark" />
   </a>
 </div>
 
@@ -31,4 +31,4 @@
 </div>
 
 
-![Snake animation](https://github.com/j2442993301/j2442993301/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/joaofrazao/joaoafrazao5/blob/output/github-contribution-grid-snake.svg)
